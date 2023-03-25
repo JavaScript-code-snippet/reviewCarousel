@@ -1,7 +1,7 @@
 const randomNextButton = document.querySelector('#toggleButton')
 const ramdomimg = document.querySelector('.randomimg')
 
-const images = ['leview1.png', 'leview2.png', 'leview3.png', 'leview4.png', 'leview5.png']
+const images = ['review1.png', 'review2.png', 'review3.png', 'review4.png', 'review5.png']
 
 
 
